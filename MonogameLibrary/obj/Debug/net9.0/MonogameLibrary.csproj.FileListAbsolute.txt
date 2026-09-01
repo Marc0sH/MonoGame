@@ -1,0 +1,12 @@
+/home/marcos/Codigo/C#/MonogameLibrary/bin/Debug/net9.0/MonogameLibrary.deps.json
+/home/marcos/Codigo/C#/MonogameLibrary/bin/Debug/net9.0/MonogameLibrary.dll
+/home/marcos/Codigo/C#/MonogameLibrary/bin/Debug/net9.0/MonogameLibrary.pdb
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.csproj.AssemblyReference.cache
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.AssemblyInfoInputs.cache
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.AssemblyInfo.cs
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.csproj.CoreCompileInputs.cache
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.dll
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/refint/MonogameLibrary.dll
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/MonogameLibrary.pdb
+/home/marcos/Codigo/C#/MonogameLibrary/obj/Debug/net9.0/ref/MonogameLibrary.dll
