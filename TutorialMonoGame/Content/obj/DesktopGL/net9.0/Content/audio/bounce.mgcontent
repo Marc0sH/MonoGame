@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/home/marcos/Codigo/C#/MonoGame/TutorialMonoGame/Content/audio/bounce.wav</SourceFile>
+  <SourceTime>2026-09-05T15:09:27.9644679-03:00</SourceTime>
+  <DestFile>/home/marcos/Codigo/C#/MonoGame/TutorialMonoGame/Content/bin/DesktopGL/Content/audio/bounce.xnb</DestFile>
+  <DestTime>2026-09-05T15:19:17.9417513-03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2026-07-15T13:21:24-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2026-07-15T13:21:24-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Version</Key>
+    <Value>3.8.5.0</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/home/marcos/Codigo/C#/TutorialMonoGame/Content/images/logo.png</SourceFile>
+  <SourceFile>/home/marcos/Codigo/C#/MonoGame/TutorialMonoGame/Content/images/logo.png</SourceFile>
   <SourceTime>2026-08-09T19:08:56.37155-03:00</SourceTime>
-  <DestFile>/home/marcos/Codigo/C#/TutorialMonoGame/Content/bin/DesktopGL/Content/images/logo.xnb</DestFile>
-  <DestTime>2026-08-09T19:26:59.8001891-03:00</DestTime>
+  <DestFile>/home/marcos/Codigo/C#/MonoGame/TutorialMonoGame/Content/bin/DesktopGL/Content/images/logo.xnb</DestFile>
+  <DestTime>2026-09-05T14:53:43.5685615-03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-07-15T13:21:24-03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
